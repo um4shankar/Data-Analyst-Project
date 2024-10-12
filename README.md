@@ -1,6 +1,6 @@
 # Sales Dashboard Project
 
-![Sales Dashboard](path_to_dashboard_image)
+![Sales Dashboard](/Dashboard 1 (3).png)
 
 ## Project Overview
 
