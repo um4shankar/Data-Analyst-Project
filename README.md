@@ -1,6 +1,6 @@
 # Sales Dashboard Project
 
-![Sales Dashboard]()
+![Sales Dashboard](./Dashboard%201%20(3).png)
 
 ## Project Overview
 
